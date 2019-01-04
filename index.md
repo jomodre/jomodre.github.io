@@ -1,6 +1,4 @@
----
-layout:post
----
+
 
 # Home page!
 
